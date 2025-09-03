@@ -69,7 +69,7 @@ The subfield of ML that powers most modern AI breakthroughs.
 
 ---
 
-## AIML Club Learning Resources
+## 📚 AIML Club Learning Resources
 
 ### Basic Foundations
 * **Linear Algebra** by Gnosvia: [Link](https://github.com/Programmers-Paradise/CodeMatics/tree/main/Problems/Questions/Mathematics/Linear%20Algebra) A Step-by-Step Guide to get advanced knowlegde on Linear Algebra
